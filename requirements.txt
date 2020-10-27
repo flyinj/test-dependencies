@@ -8,7 +8,7 @@ chardet==3.0.3
 Cheetah==2.4.4
 cloud-init==0.7.5
 configobj==4.7.2
-cryptography==1.9
+cryptography==3.2
 decorator==3.4.0
 docx2txt==0.6
 enum34==1.1.6
