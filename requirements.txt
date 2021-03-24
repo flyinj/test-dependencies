@@ -62,7 +62,7 @@ PyYAML==3.10
 reportlab==3.0
 requests==2.17.3
 requests-oauthlib==1.2.0
-rsa==3.4.2
+rsa==4.1
 signpdf==0.0.3
 simplegeneric==0.8.1
 six==1.11.0
