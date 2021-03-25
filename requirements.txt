@@ -58,7 +58,7 @@ python-apt===0.9.3.5ubuntu2
 python-dateutil==1.5
 python-debian===0.1.21-nmu2ubuntu2
 pytz==2012rc0
-PyYAML==3.10
+PyYAML==5.4
 reportlab==3.0
 requests==2.17.3
 requests-oauthlib==1.2.0
