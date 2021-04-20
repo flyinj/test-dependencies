@@ -42,7 +42,7 @@ pip==9.0.1
 Pillow==2.3.0
 prettytable==0.7.2
 PWN-api==0.1
-py==1.4.33
+py==1.10.0
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycparser==2.17
